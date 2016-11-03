@@ -2,7 +2,7 @@
 
 ## Theme
 
-Jekyll theme is using [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes/releases) under [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE.txt).
+Jekyll theme is using [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) under [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE.txt).
 
 ## License
 
