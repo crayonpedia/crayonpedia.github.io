@@ -20,6 +20,21 @@ Berikut adalah langkah-langkah di https://cloud.google.com/appengine/docs/python
 
         activate py27
 
+3. Sunting file appengine_config.py
+
+    from google.appengine.ext import vendor
+
+    # Add any libraries installed in the "lib" folder.
+    vendor.add('lib')
+
+3.b. Sebagai [workaround untuk Click bug](https://github.com/kkinder/GAEStarterKit/pull/9/commits/9df8d53c279b7e62030ac00ba327b6bef708cf07), tambahkan di `appengine_config.py` :
+
+    import os
+    import sys
+    if os.name == 'nt':
+        os.name = None
+        sys.platform = ''
+
 4. Install Flask:
 
         pip install -t flask
