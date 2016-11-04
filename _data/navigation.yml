@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "Google App Engine Tips"
+    url: /gae-tips
   - title: "Tutorial Hello di GAE"
     url: /tutorial-hello-flask-gae
   - title: "Tutorial Chatbot Telegram di GAE"
