@@ -1,5 +1,7 @@
-# Tutorial Aplikasi Hello di Google App Engine
-
+---
+title: Tutorial Aplikasi Hello di Google App Engine
+permalink: /tutorial-hello-flask-gae
+---
 Framework yang digunakan adalah Flask di Python 2.7.
 
 Sebelum menjalankan perintah-perintah Python di Command Prompt, pastikan pindah ke Anaconda environment yang menggunakan Python 2.7:
