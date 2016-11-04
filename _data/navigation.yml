@@ -1,12 +1,8 @@
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+  - title: "Tutorial Hello di GAE"
+    url: /tutorial-hello-flask-gae
+  - title: "Tutorial Chatbot Telegram di GAE"
+    url: /tutorial-chatbot-flask-gae
   - title: "Sitemap"
     url: /sitemap/
